@@ -5,7 +5,7 @@
 4. Displays my latest group project and other two homeworks; also the links to GitHub repository
 
 # Screenshots
-
+![screenshot](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/screenshot.PNG)
 
 
 # The URLs
