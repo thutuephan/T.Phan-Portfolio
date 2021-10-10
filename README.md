@@ -1,3 +1,7 @@
+# License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # T.Phan-Portfolio
 1. My updated portfolio displays my contact information.
 2. It has to my gitHub profile and LinkedIn
@@ -21,6 +25,4 @@
 5. https://www.w3schools.com/
 6. https://blog.bitsrc.io/top-5-css-grid-layout-generators-f7743f0dfad2
 
-# License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
