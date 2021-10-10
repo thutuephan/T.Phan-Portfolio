@@ -6,7 +6,8 @@
 
 # Screenshots
 ![screenshot](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/screenshot.PNG)
-
+![password](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/Password.PNG)
+![dailyplanner](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/Capture-DailyPlanner1.PNG)
 
 # The URLs
 1. GitHub Repo: https://github.com/thutuephan/T.Phan-Portfolio
