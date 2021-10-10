@@ -20,3 +20,7 @@
 4. https://fonts.google.com/
 5. https://www.w3schools.com/
 6. https://blog.bitsrc.io/top-5-css-grid-layout-generators-f7743f0dfad2
+
+# License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
