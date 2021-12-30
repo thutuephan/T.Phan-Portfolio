@@ -59,12 +59,7 @@ ul {
     background-color: var(--secondaryColor);
     border-bottom: 2 px solid var(--borderColor);
 }
-.main-container {
-   /* width: 1200px;
-    margin: 0 auto; */
 
-    
-}
 
 .head-wrapper {
     justify-content: center;
@@ -89,21 +84,23 @@ ul {
 }
 /* creates a box displaying 1 row for about section, 2 columns for image section and paragraph section */
 .intro-column {
-    display: grid;
+
+    display: flexbox;
     background-color: var(--secondaryColor);
     border-radius: 5px 5px 5px 5px;
-    grid-template-rows: 3em 30em;
+    /*grid-template-rows: 3em 30em;
     grid-template-columns: 1fr 1fr;
+    grid-template-columns: fit-content(40%);
     grid-template-areas: 
     'intro-abt intro-abt'
     'left-column right-column'
-    ;
+    ;*/
 }
 
 .intro-abt{
     border-bottom: 1px solid var(--borderColor);
     grid-area: intro-abt;
-    display: grid;  
+    display: flex;
 }
 .intro {
     display: inline-flexbox;
@@ -118,12 +115,22 @@ ul {
     grid-area: right-column;
 }
 
-.left-column img {
+/*.left-column img {
     display:flex;
     
     width: 33%px;
     margin-left: 100px;
     margin-top: 50px;
+    
+}*/
+.avar {
+    
+    border-radius: 50%;
+    width: 150px;
+    height:150px;
+    display: flex;
+    background-size: cover;
+
     
 }
 /* inserts an avatar image */
@@ -131,11 +138,12 @@ img {
     display:flex;
     justify-content: center;
     border-radius: 5px;
-    width: 33%;
+    width: 50%;
     margin: 10px;
     
-    -webkit-box-shadow: 5px 5px 15px 14px #63766E; 
-box-shadow: 5px 5px 15px 14px #63766E;}
+    /*-webkit-box-shadow: 5px 5px 15px 14px #63766E; */
+    /*box-shadow: 5px 5px 10px 10px #63766E;*/
+}
 
 .portfo-container {
     display: flex;
@@ -193,6 +201,14 @@ footer ul li a {
     color:red;
     display: inherit;
 }
+
+.technologies {
+    list-style-type: none;
+    color:rgb(177, 208, 224);
+    font-size: 50;
+    font-weight: bold;
+
+}
 /* sets mobile-responsiveness for the page */
 @media only screen and (max-width:1200px) {
     .main-container {
@@ -202,8 +218,8 @@ footer ul li a {
 
 @media only screen and (min-width: 375px) {
     /* For mobile phones: */
-    .one, .two, .three {
-        width: 33%;
+    .one, .two  {
+        width: 50%;
     }
     
 } 
