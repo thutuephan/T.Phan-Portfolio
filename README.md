@@ -8,9 +8,14 @@
 3. Has a link to a downloadable PDF of my resume
 4. Displays my latest group project and other two homeworks; also the links to GitHub repository
 
+# The URLs
+1. GitHub Repo: https://github.com/thutuephan/T.Phan-Portfolio
+2. The deployed link: https://thutuephan.github.io/T.Phan-Portfolio/
+
+
 # Screenshots
 ## #1
-![screenshot](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/screen1.png)
+![screenshot](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/screen2.png)
 ## #2
 ![budget](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/budget.png)
 ## #3
@@ -25,9 +30,6 @@
 
 
 
-# The URLs
-1. GitHub Repo: https://github.com/thutuephan/T.Phan-Portfolio
-2. The deployed link: https://thutuephan.github.io/T.Phan-Portfolio/
 
 # Resources and References
 1. https://html-css-js.com/css/generator/box-shadow/
