@@ -9,9 +9,21 @@
 4. Displays my latest group project and other two homeworks; also the links to GitHub repository
 
 # Screenshots
-![screenshot](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/screenshot.PNG)
-![password](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/Password.PNG)
+## #1
+![screenshot](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/screen1.png)
+## #2
+![budget](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/budget.png)
+## #3
 ![dailyplanner](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/Capture-DailyPlanner1.PNG)
+## #4
+![fitness](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/fitness-dashboard2.png)
+## $5
+![project2](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/project2.png)
+
+## #6
+![weather](https://github.com/thutuephan/T.Phan-Portfolio/blob/main/assets/images/weather-dash1.png)
+
+
 
 # The URLs
 1. GitHub Repo: https://github.com/thutuephan/T.Phan-Portfolio
