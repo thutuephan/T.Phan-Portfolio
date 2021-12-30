@@ -1,13 +1,16 @@
 body {
     padding:0;
     margin:0;
+        background-image: url(../images/background.jpg);
+
 }
 /* sets root colors for text, background */
 :root{
-    --mainColor:#8F8F8F;
-    --secondaryColor:#f1f1f1;
+    --mainColor:black;
+    --secondaryColor:rgb(26, 55, 77);
     --borderColor:#c1c1c1;
-    --mainText:#000;
+    --mainText:white;
+    
 
 }
 h1, h2, h3, h4 {
@@ -42,7 +45,7 @@ a {
     border-radius: 5px;
 }
 a:hover {
-    background-color:#414141;
+    background-color:gray;
     transition: all 1s ease out;
 }
 ul {
@@ -57,8 +60,10 @@ ul {
     border-bottom: 2 px solid var(--borderColor);
 }
 .main-container {
-    width: 1200px;
-    margin: 0 auto;
+   /* width: 1200px;
+    margin: 0 auto; */
+
+    
 }
 
 .head-wrapper {
@@ -67,6 +72,7 @@ ul {
     display: grid;
     border: 2px solid var(--mainColor);
     min-height: 15em;
+    
 }
 /* creates a box-shadow for navbar*/
 .navbar {
@@ -142,15 +148,13 @@ box-shadow: 5px 5px 15px 14px #63766E;}
 }
 .box {
     display: flex;
+    background-color: var(--secondaryColor);
+
+    
 }
 .one {
     flex: 1 1 auto;
-}
-.two {
-    flex: 1 1 auto;
-}
-.three {
-    flex: 1 1 auto;
+    
 }
 
 .section-4 {
@@ -179,6 +183,15 @@ footer ul li a {
     font-size: 20px;
     color: var(--mainText);
 
+}
+
+.code {
+    background-color:(--mainColor);
+    border-radius: 5px;
+    width: 30%;
+    font-family: 'Russo One', sans-serif;
+    color:red;
+    display: inherit;
 }
 /* sets mobile-responsiveness for the page */
 @media only screen and (max-width:1200px) {
