@@ -13,6 +13,8 @@ body {
     
 
 }
+
+
 h1, h2, h3, h4 {
     color: var(--mainText);
     font-family: 'Russo One', sans-serif;
@@ -177,7 +179,7 @@ footer ul {
     display: flex;
     margin:0;
     padding: 0 10px;
-    float: inline-start;
+    
 }
 footer ul li {
     list-style-type: none;
@@ -188,7 +190,7 @@ footer ul li a {
     text-decoration: none;
     display: block;
     padding:0 15px;
-    font-size: 20px;
+    font-size: 10px;
     color: var(--mainText);
 
 }
@@ -209,17 +211,26 @@ footer ul li a {
     font-weight: bold;
 
 }
+
+.main-container {
+    font-size: 10px;
+}
+
 /* sets mobile-responsiveness for the page */
 @media only screen and (max-width:1200px) {
     .main-container {
         width: 95%;
     }
+    
 }
 
-@media only screen and (min-width: 375px) {
+@media only screen and (min-width: 360px) {
     /* For mobile phones: */
     .one, .two  {
         width: 50%;
+    }
+    footer ul li a{
+        font-size: 16px;
     }
     
 } 
